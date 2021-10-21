@@ -6,7 +6,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
 
-[Quick Oatmeal Pancakes](recipe/feb/quick-oatmealpankakes.md)
+[Asparagus With Cranberries And Pine Nuts/](recipe/feb/asparagus.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
